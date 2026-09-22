@@ -181,3 +181,14 @@ IT User Administrator
       ↓
 Access Removed
 
+
+[1]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_1.png
+[2]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_2.png
+[3]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_3.png
+[4]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_4.png
+[5]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_5.png
+[6]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_6.png
+[7]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_7.png
+[8]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_7.2.png
+[9]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_8.png
+[10]:https://github.com/DON-CYR/Entra-ID-Privileged-Access-JIT-Lab/blob/main/images/sc_9.png
